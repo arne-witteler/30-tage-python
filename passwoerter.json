@@ -1,1 +1,13 @@
-[{"passwort": "abc1234df", "website": "google.com"}]
+{
+    "masterkey": "0dddb17fd3119a14b610a351fb296c2c2647a7bb08682373a8612b1d06b9af0e",
+    "passw\u00f6rter": [
+        {
+            "passwort": "abc123def789",
+            "website": "google.com"
+        },
+        {
+            "passwort": "098ter543wqa",
+            "website": "linkedin.de"
+        }
+    ]
+}
