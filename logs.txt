@@ -1,0 +1,6 @@
+[INFO] Server gestartet
+[WARNING] Niedriger Speicher
+[INFO] Verbindung hergestellt
+[ERROR] Datenbank nicht erreichbar
+[INFO] Benutzer angemeldet
+[ERROR] Zeitüberschreitung bei Anfrage
