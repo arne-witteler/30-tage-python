@@ -1,0 +1,3 @@
+[WARNING] Niedriger Speicher
+[ERROR] Datenbank nicht erreichbar
+[ERROR] Zeitüberschreitung bei Anfrage
